@@ -18,6 +18,10 @@ I'm interested in exploring the intersection of **psychology, behavioral science
 - Developing Python and R programming skills.
 - Exploring data science applications in behavioral research.
 
+### 📸 Creative Projects
+- Photography Portfolio: (https://hannahhuberphotos.mypixieset.com/) 
+  - Portrait, graduation, wedding, and event photography.
+ 
 ### 💬 Let's Connect!
 Always happy to connect with others interested in psychology, behavioral science, research, and data science!
 
